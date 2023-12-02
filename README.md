@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=1000&color=082199&random=false&width=435&lines=Hello+there%F0%9F%91%8Bfellow+DEVELOPER'S;It's+Rishabh+from+this+side%F0%9F%98%8A" alt="Typing SVG" /></a>
 
-
+![Uploading RishabhAtWork.gif…]()
 
    <hr>
   <hr>
