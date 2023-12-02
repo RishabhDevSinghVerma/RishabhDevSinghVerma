@@ -5,9 +5,11 @@
 
 <h3 >
   <img src="<img align="right" alt="coding" width="400" src="RishabhAtWork.gif">
+   </h3>
+
+   <hr>
   <hr>
-  <hr>
-About </h3>
+  <h3>About</h3>
 An aspiring Java Developer willingness to learn new things, growth mindset with a positive attitude, team-oriented personality.
 
 <hr>
