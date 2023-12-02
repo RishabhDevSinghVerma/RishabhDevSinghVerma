@@ -9,7 +9,7 @@ An aspiring Java Developer willingness to learn new things, growth mindset with 
 
 <hr>
 
-<h3> Languages, Tools & Technologies</h3>
+<h3> Languages</h3>
 
 <p align="left">
 <img width="45px"  src="https://img.icons8.com/color/512/c-programming.png"/>
